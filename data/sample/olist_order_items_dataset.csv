@@ -1,0 +1,2 @@
+order_id,order_item_id,product_id,seller_id,shipping_limit_date,price,freight_value
+sample-order-1,1,sample-product-1,sample-seller-1,2024-01-12 00:00:00,25.00,5.00

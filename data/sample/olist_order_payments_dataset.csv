@@ -1,0 +1,2 @@
+order_id,payment_sequential,payment_type,payment_installments,payment_value
+sample-order-1,1,credit_card,1,30.00

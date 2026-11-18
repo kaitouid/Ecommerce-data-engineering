@@ -1,0 +1,2 @@
+order_id,customer_id,order_status,order_purchase_timestamp,order_approved_at,order_delivered_carrier_date,order_delivered_customer_date,order_estimated_delivery_date
+sample-order-1,sample-customer-1,delivered,2024-01-10 10:00:00,2024-01-10 10:15:00,2024-01-11 08:00:00,2024-01-15 12:00:00,2024-01-20 00:00:00

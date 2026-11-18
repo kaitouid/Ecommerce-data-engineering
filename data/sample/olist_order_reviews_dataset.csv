@@ -1,0 +1,2 @@
+review_id,order_id,review_score,review_comment_title,review_comment_message,review_creation_date,review_answer_timestamp
+sample-review-1,sample-order-1,5,,,,2024-01-16 12:00:00
